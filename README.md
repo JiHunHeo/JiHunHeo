@@ -36,6 +36,6 @@
    <img src="https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-CLanguages-%231572B6?style=flat-square&logo=C&logoColor=white"/>
 </p>
-<p>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats)
+
