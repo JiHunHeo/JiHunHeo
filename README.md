@@ -21,20 +21,21 @@
 💪 Below are the Platforms & languages I can handle even a little bit. I'm going to keep adding the things I've been studying!💡
 </p>
 <p>
-   <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
-   <img src="https://img.shields.io/badge/-Jquery-%230769AD?style=flat-square&logo=Jquery&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
 </p>
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 <p>
-   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=black"/>
-   <img src="https://img.shields.io/badge/-JAVA-%23E34F26?style=flat-square&logo=JAVA&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=Python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-CLanguages-%231572B6?style=flat-square&logo=C&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-CLanguages-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats)
