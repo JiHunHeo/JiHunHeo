@@ -1,6 +1,7 @@
 ### Hi, everyone !
 <p>
-👋 Nice to meet you. My name is JiHunHeo. I'm a very funny man! And I am also the father of two wonderful sons living in Ulsan, Korea!👨‍👩‍👦‍👦
+👋 Nice to meet you. My name is JiHunHeo.<br>
+   I'm a very funny man! And I am also the father of two wonderful sons living in Ulsan, Korea!👨‍👩‍👦‍👦
 
 🔭 I’m currently working as an instructor at <a href="https://ulsan.sbsart.com/" target="_blank">SBS Academy.</a>🏢
 
@@ -12,7 +13,8 @@
 
 🤔 I'm always welcome if you can constantly tell me what's lacking or wrong with me. I'd appreciate it if you could help me a lot.
 
-⚡ I was actually more interested in music than in programming. In fact, I recently attended a competition in my area and won a silver prize!🥈<br>
+⚡ I was actually more interested in music than in programming.<br>
+   In fact, I recently attended a competition in my area and won a silver prize!🥈<br>
    Since then, I've also been active in the choir as an amateur baritone!🎙<br>
    Now I spend more time studying programming than practicing singing!💻
 </p>
