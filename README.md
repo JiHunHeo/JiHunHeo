@@ -3,7 +3,7 @@
 👋 Nice to meet you. My name is JiHunHeo.<br>
    I'm a very funny man! And I am also the father of two wonderful sons living in Ulsan, Korea!👨‍👩‍👦‍👦
 
-🔭 I’m currently working as an instructor at <a href="https://ulsan.sbsart.com/" target="_blank">SBS Academy.</a>🏢
+🔭 I’m currently working as an instructor at <a href="https://ulsan.sbsart.com/" target="_blank">SBS Computer Academy.</a>🏢
 
 👀 I am interested in WebPublishing and FrontEnd! And it is my dream to become a full-stack developer someday!
 
