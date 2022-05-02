@@ -33,16 +33,16 @@
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 <p>
+   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Adobe Phtoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+</p>
+<p>
    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
    <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=red"/>
    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-</p>
-<p>
-   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Adobe Phtoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats)
