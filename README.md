@@ -7,7 +7,7 @@
 
 👀 I am interested in WebPublishing and FrontEnd! And it is my dream to become a full-stack developer someday!
 
-🌱 I’m currently learning JAVA, Python, Javascript, React.js, Veu, C, and BigData.
+🌱 I’m currently learning JAVA, Python, Javascript, React.js, Vue, C, and BigData.
 
 👯 I want to collaborate so that I can learn more quickly in what I learn.
 
