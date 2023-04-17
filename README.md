@@ -35,11 +35,7 @@
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</p>
-<p>
    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Adobe Phtoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiHunHeo)](https://github.com/JiHunHeo/github-readme-stats)
