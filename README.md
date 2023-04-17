@@ -5,9 +5,9 @@
 
 🔭 I’m currently working as an instructor at <a href="https://ulsan.sbsart.com/" target="_blank">SBS Computer Academy.</a>🏢
 
-👀 I am interested in WebPublishing and FrontEnd! And it is my dream to become a full-stack developer someday!
+👀 I am interested in FrontEnd and BackEnd Develop! And it is my dream to become a full-stack developer someday!
 
-🌱 I’m currently learning JAVA, Python, Javascript, React.js, Vue, C, and BigData.
+🌱 I’m currently learning JAVA, Python, Javascript, React.js, C, Node.js and Next.js.
 
 👯 I want to collaborate so that I can learn more quickly in what I learn.
 
@@ -31,6 +31,8 @@
    <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=red"/>
    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=Node&logoColor=green"/>
+   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=Next&logoColor=blue"/>
 </p>
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
