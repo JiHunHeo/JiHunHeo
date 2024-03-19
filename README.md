@@ -31,8 +31,8 @@
    <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=red"/>
    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
-   <img src="https://img.shields.io/badge/-Oracle-A8B9CC?style=flat-square&logo=C&logoColor=red"/>
-   <img src="https://img.shields.io/badge/-JSP-A8B9CC?style=flat-square&logo=C&logoColor=red"/>
+   <img src="https://img.shields.io/badge/-Oracle-A8B9CC?style=flat-square&logo=Oracle&logoColor=red"/>
+   <img src="https://img.shields.io/badge/-Jsp-A8B9CC?style=flat-square&logo=Jsp&logoColor=red"/>
 </p>
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
