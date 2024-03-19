@@ -7,7 +7,7 @@
 
 👀 I am interested in FrontEnd and BackEnd Develop! And it is my dream to become a full-stack developer someday!
 
-🌱 I’m currently learning JAVA, jsp, Oracle, MongoDB, Python, Javascript, React.js, C, Node.js and Next.js.
+🌱 I’m currently learning JAVA, JSP, OracleDB, MongoDB, Python, Javascript, React.js, C, Node.js and Next.js.
 
 👯 I want to collaborate so that I can learn more quickly in what I learn.
 
@@ -32,7 +32,6 @@
    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
    <img src="https://img.shields.io/badge/-Oracle-A8B9CC?style=flat-square&logo=Oracle&logoColor=red"/>
-   <img src="https://img.shields.io/badge/-Jsp-A8B9CC?style=flat-square&logo=Jsp&logoColor=red"/>
 </p>
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
