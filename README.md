@@ -3,11 +3,11 @@
 👋 Nice to meet you. My name is JiHunHeo.<br>
    I'm a very funny man! And I am also the father of two wonderful sons living in Ulsan, Korea!👨‍👩‍👦‍👦
 
-🔭 I’m currently working as an instructor at <a href="https://ulsan.sbsart.com/" target="_blank">SBS Computer Academy.</a>🏢
+🔭 I’m currently working as an instructor at <a href="https://blog.naver.com/ulsancoding/221600846870" target="_blank">UCA Academy.</a>🏢
 
 👀 I am interested in FrontEnd and BackEnd Develop! And it is my dream to become a full-stack developer someday!
 
-🌱 I’m currently learning JAVA, Python, Javascript, React.js, C, Node.js and Next.js.
+🌱 I’m currently learning JAVA, jsp, Oracle, MongoDB, Python, Javascript, React.js, C, Node.js and Next.js.
 
 👯 I want to collaborate so that I can learn more quickly in what I learn.
 
@@ -31,6 +31,8 @@
    <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=red"/>
    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Oracle-A8B9CC?style=flat-square&logo=C&logoColor=red"/>
+   <img src="https://img.shields.io/badge/-JSP-A8B9CC?style=flat-square&logo=C&logoColor=red"/>
 </p>
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
